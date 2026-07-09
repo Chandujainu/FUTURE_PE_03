@@ -1,0 +1,20 @@
+I wanted to create an SEO-optimized blog for a local beauty salon using AI.
+
+I asked ChatGPT to write a professional blog for "Radiance Beauty Salon."
+
+The blog should include:
+
+- SEO-friendly title
+- Meta title
+- Meta description
+- Introduction
+- H2 and H3 headings
+- Relevant keywords
+- High-quality, engaging content
+- Frequently Asked Questions (FAQs)
+- A strong conclusion
+- Call-to-Action (CTA)
+
+Also generate a content cluster with 5 related blog topic ideas and suggest primary and secondary keywords.
+
+The content should be original, easy to read, informative, and optimized for search engines.
